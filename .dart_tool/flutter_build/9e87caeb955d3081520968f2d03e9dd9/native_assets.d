@@ -1,0 +1,1 @@
+ C:\\Users\\COACH\\StudioProjects\\election_test\\.dart_tool\\flutter_build\\9e87caeb955d3081520968f2d03e9dd9\\native_assets.yaml: 
